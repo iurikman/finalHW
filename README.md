@@ -5,5 +5,6 @@
 
 2. Создал файл **README.md**.
 
-Добавил этот путкт и сохранил в папку итогового задания. Сделал первый коммит: *"first commit, point 2 tutorial added".*
+Добавил этот путкт и сохранил в папку итогового задания. Сделал первый коммит: *"first commit, point 2 **README** added".*
 
+3. Добавил блок-схему в папку и сделал коммит: *second commit, point 3 **README** added, scheme of main function added".*
