@@ -8,3 +8,5 @@
 Добавил этот путкт и сохранил в папку итогового задания. Сделал первый коммит: *"first commit, point 2 **README** added".*
 
 3. Добавил блок-схему в папку и сделал коммит: *second commit, point 3 **README** added, scheme of main function added".*
+
+4. Добавил саму программу с решением задачи и сделал коммит: *third commit, point 4 **README** added, program added".*
